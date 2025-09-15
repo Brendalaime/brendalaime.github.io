@@ -1,123 +1,54 @@
+# Brenda Raquel Laime Jalil
+
+*Project Administrator · Professional Racquetball Player · Aspiring Entrepreneur*
+
+Welcome to my e-portfolio for **OM 620**. I use data and storytelling to improve decisions in operations and supply chains. This site runs on the `Minimal` GitHub Pages theme.
+
 ---
-layout: default
+
+## 🎯 Summary
+International student from **Bolivia** with a *B.S. in Business Administration (Leadership & Management)* from Towson University.  
+Currently pursuing the **M.S. in Supply Chain Analytics** at California State University San Marcos.  
+I blend sports discipline with analytics to build efficient, people-centered systems.
+
+> “Discipline beats motivation; systems beat goals.”
+
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## 💼 Work Experience
+### Project Administrator — OHE Painting & Wallcovering Inc. *(2024–Present)*
+- Compliance: **LCPtracker**, DIR/certified payroll, daily logs, apprentice classifications  
+- Coordination across field admins and project stakeholders  
+- Streamlined reporting to reduce errors and turnaround time
 
-[Link to another page](./another-page.html).
+### Social Media & Operations — The Cake (Bolivia) *(2019–2023)*
+- Helped open **4 locations in 3 cities**  
+- Revenue growth via campaigns (*~20%* sales increase)  
+- Customer experience improvements and community engagement
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## 🎓 Education
+1. **CSU San Marcos** — M.S. Supply Chain Analytics *(Expected 2026)*  
+2. **Towson University** — B.S. Business Administration (Leadership & Management), 2024    
+4. **CSU Pueblo** — Athletic Scholarship Recipient, 2019  
 
-# Header 1
+---
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## 🧪 Selected Projects
+- **Forecasting Road Safety** — Built a proposal to forecast alcohol-impaired crash fatalities across major U.S. metros *(2017–2027)* using FARS data; planned pipeline in Python (`pandas`, `statsmodels`) and Power BI dashboards.  
+- **SAP Order-to-Cash** — Executed an integrated O2C flow; configured cross-division item (TANN) and validated delivery/invoice documents.
 
-## Header 2
+---
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## 🔧 Skills
+- **Tools:** Python, Power BI, GitHub, Excel  
+- **Strengths:** Leadership, Cross-Cultural Collaboration, Data-Driven Problem Solving  
+- **Languages:** English, Spanish
 
-### Header 3
+---
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## 📌 Links
+- [GitHub](https://github.com/brendalaime)  
+- [LinkedIn](https://www.linkedin.com/) *(add your profile URL)*  
+- Email: your.email@example.com *(replace with yours)*
