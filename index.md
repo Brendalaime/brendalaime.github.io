@@ -1,3 +1,8 @@
+---
+layout: default
+title: Brenda Laime Jalil — ePortfolio
+---
+
 # Brenda Raquel Laime Jalil
 
 *Project Administrator · Professional Racquetball Player · Aspiring Entrepreneur*
@@ -30,14 +35,14 @@ I blend sports discipline with analytics to build efficient, people-centered sys
 
 ## 🎓 Education
 1. **CSU San Marcos** — M.S. Supply Chain Analytics *(Expected 2026)*  
-2. **Towson University** — B.S. Business Administration (Leadership & Management), 2024    
+2. **Towson University** — B.S. Business Administration (Leadership & Management), 2024  
 4. **CSU Pueblo** — Athletic Scholarship Recipient, 2019  
 
 ---
 
 ## 🧪 Selected Projects
 - **Forecasting Road Safety** — Built a proposal to forecast alcohol-impaired crash fatalities across major U.S. metros *(2017–2027)* using FARS data; planned pipeline in Python (`pandas`, `statsmodels`) and Power BI dashboards.  
-- **SAP Order-to-Cash** — Executed an integrated O2C flow; configured cross-division item (TANN) and validated delivery/invoice documents.
+- **SAP Order-to-Cash (SD Challenge)** — Executed an integrated O2C flow; configured cross-division item (TANN) and validated delivery/invoice documents.
 
 ---
 
@@ -48,7 +53,24 @@ I blend sports discipline with analytics to build efficient, people-centered sys
 
 ---
 
+## 🏆 Achievements
+- **Top-10** world ranking (Women’s Racquetball)  
+- **2× 2024 Grand Slam winner** (South Carolina, Chicago)  
+- Represented Bolivia internationally
+
+---
+
+## 📄 Résumé
+[Download my résumé (PDF)](assets/docs/Brenda-Laime-Resume.pdf)
+
+---
+
+## 📷 About Me
+![Brenda headshot](assets/img/profile.jpg)
+
+---
+
 ## 📌 Links
 - [GitHub](https://github.com/brendalaime)  
 - [LinkedIn](https://www.linkedin.com/) 
-- Email: brendalaimej@gmail.com
+- Email: brendalaime@gmail.com
