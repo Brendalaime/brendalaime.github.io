@@ -50,5 +50,5 @@ I blend sports discipline with analytics to build efficient, people-centered sys
 
 ## 📌 Links
 - [GitHub](https://github.com/brendalaime)  
-- [LinkedIn](https://www.linkedin.com/) *(add your profile URL)*  
-- Email: your.email@example.com *(replace with yours)*
+- [LinkedIn](https://www.linkedin.com/) 
+- Email: brendalaimej@gmail.com
