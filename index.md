@@ -1,6 +1,8 @@
 ---
-layout: default
-title: Brenda Laime Jalil — ePortfolio
+layout: single
+title: "Brenda Laime Jalil — ePortfolio"
+author_profile: true
+classes: wide
 ---
 
 # Brenda Raquel Laime Jalil
