@@ -1,6 +1,26 @@
 title: "Brenda Laime — ePortfolio"
-description: "Class e-portfolio with projects, notes, and résumé."
-theme: jekyll-theme-minimal
-logo: /assets/img/profile.jpg
-show_downloads: false
+description: "E-portfolio for OM 620 — Fall 2025"
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default"   # try: "air", "contrast", "neon", etc.
 
+plugins:
+  - jekyll-include-cache
+
+logo: /assets/img/profile.jpg
+
+author:
+  name: "Brenda Laime Jalil"
+  avatar: "/assets/img/profile.jpg"
+  bio: "Project Administrator · Professional Racquetball Player · Aspiring Entrepreneur"
+  location: "San Diego, CA"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/brendalaime"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/"   # put your profile URL
+
+# Adds a top navigation link to Projects if you create projects.md
+header_pages:
+  - projects.md
