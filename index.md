@@ -28,7 +28,7 @@ I blend sports discipline with analytics to build efficient, people-centered sys
 
 ### Social Media & Operations — The Cake (Bolivia) *(2019–2023)*
 - Helped open **4 locations in 3 cities**  
-- Revenue growth via campaigns (*~20%* sales increase)  
+- Revenue growth via campaigns  
 - Customer experience improvements and community engagement
 
 ---
@@ -54,9 +54,7 @@ I blend sports discipline with analytics to build efficient, people-centered sys
 ---
 
 ## 🏆 Achievements
-- **Top-10** world ranking (Women’s Racquetball)  
-- **2× 2024 Grand Slam winner** (South Carolina, Chicago)  
-- Represented Bolivia internationally
+
 
 ---
 
