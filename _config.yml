@@ -23,7 +23,6 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/"   # put your profile URL
 
-# Adds a top navigation link to Projects if you create projects.md
-# header_pages:
-#   - projects.md
+header_pages:
+ - projects.md
 
