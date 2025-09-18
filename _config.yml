@@ -1,12 +1,14 @@
 title: "Brenda Laime — ePortfolio"
 description: "E-portfolio for OM 620 — Fall 2025"
+
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"   # try: "air", "contrast", "neon", etc.
+minimal_mistakes_skin: "default"
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-include-cache
 
-logo: /assets/img/profile.jpg
+logo: /assets/img/logo.jpg
 
 author:
   name: "Brenda Laime Jalil"
