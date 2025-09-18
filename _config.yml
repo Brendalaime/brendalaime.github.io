@@ -1,7 +1,7 @@
 title: "Brenda Laime — ePortfolio"
 description: "E-portfolio for OM 620 — Fall 2025"
 
-remote_theme: "mmistakes/minimal-mistakes @4.24.0"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
 
 plugins:
@@ -12,7 +12,7 @@ logo: /assets/img/logo.png
 
 author:
   name: "Brenda Laime Jalil"
-  avatar: "/assets/img/logo.png"
+  avatar: "/assets/img/brenda-headshot-180.png"
   bio: "Project Administrator · Professional Racquetball Player · Aspiring Entrepreneur"
   location: "San Diego, CA"
   links:
@@ -24,5 +24,6 @@ author:
       url: "https://www.linkedin.com/"   # put your profile URL
 
 # Adds a top navigation link to Projects if you create projects.md
-header_pages:
-  - projects.md
+# header_pages:
+#   - projects.md
+
