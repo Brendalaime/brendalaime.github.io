@@ -1,14 +1,9 @@
 ---
-layout: default
-title: Brenda Laime — ePortfolio
----
-
-# Brenda Raquel Laime Jalil
-
-*Project Administrator · Professional Racquetball Player · Aspiring Entrepreneur*
-
-Welcome to my e-portfolio for **OM 620**. I use data and storytelling to improve decisions in operations and supply chains. This site runs on the `Minimal` GitHub Pages theme.
-
+layout: home
+author_profile: true
+title: "Brenda Raquel Laime Jalil"
+excerpt: "Project Administrator · Professional Racquetball Player · Aspiring Entrepreneur"
+classes: wide
 ---
 
 ## 🎯 Summary
