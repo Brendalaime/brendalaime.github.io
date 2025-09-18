@@ -40,13 +40,13 @@ I blend sports discipline with analytics to build efficient, people-centered sys
 
 ---
 
-## 🧪 Selected Projects
+## Selected Projects
 - **Forecasting Road Safety** — Built a proposal to forecast alcohol-impaired crash fatalities across major U.S. metros *(2017–2027)* using FARS data; planned pipeline in Python (`pandas`, `statsmodels`) and Power BI dashboards.  
 - **SAP Order-to-Cash (SD Challenge)** — Executed an integrated O2C flow; configured cross-division item (TANN) and validated delivery/invoice documents.
 
 ---
 
-## 🔧 Skills
+## Skills
 - **Tools:** Python, Power BI, GitHub, Excel  
 - **Strengths:** Leadership, Cross-Cultural Collaboration, Data-Driven Problem Solving  
 - **Languages:** English, Spanish
