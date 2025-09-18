@@ -1,5 +1,7 @@
 title: "Brenda Laime — ePortfolio"
 description: "E-portfolio for OM 620 — Fall 2025"
+url: "https://brendalaime.github.io"
+repository: "brendalaime/brendalaime.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "default"
@@ -24,5 +26,5 @@ author:
       url: "https://www.linkedin.com/"   # put your profile URL
 
 header_pages:
- - projects.md
+  - projects.md
 
