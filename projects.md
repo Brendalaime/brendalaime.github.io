@@ -5,4 +5,5 @@ permalink: /projects/
 author_profile: true
 ---
 
-Coming soon — selected coursework and analytics projects.
+## Forecasting Road Safety (Proposal)
+- Built a plan to forecast alcohol-impaired crash fatalities across major U.S. metros (2017–2027).
