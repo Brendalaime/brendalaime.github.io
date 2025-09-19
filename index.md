@@ -60,11 +60,6 @@ I blend sports discipline with analytics to build efficient, people-centered sys
 
 ---
 
-## 📷 About Me
-<img src="/assets/img/brenda-headshot-180.png" alt="Brenda headshot" width="180" style="border-radius:12px;">
-
----
-
 ## 📌 Links
 - [GitHub](https://github.com/brendalaime)  
 - [LinkedIn](https://www.linkedin.com/) 
