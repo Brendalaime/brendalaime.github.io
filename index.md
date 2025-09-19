@@ -56,7 +56,7 @@ I blend sports discipline with analytics to build efficient, people-centered sys
 ---
 
 ## 📄 Résumé
-[Download my résumé (PDF)](assets/docs/Brenda-Laime-Resume.pdf)
+[Download my résumé (PDF)](/assets/resume/Laime_Brenda_Resume.pdf)
 
 ---
 
