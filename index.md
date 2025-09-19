@@ -6,7 +6,7 @@ excerpt: "Project Administrator · Professional Racquetball Player · Aspiring E
 classes: wide
 ---
 
-## 🎯 Summary
+## Summary
 International student from **Bolivia** with a *B.S. in Business Administration (Leadership & Management)* from Towson University.  
 Currently pursuing the **M.S. in Supply Chain Analytics** at California State University San Marcos.  
 I blend sports discipline with analytics to build efficient, people-centered systems.
@@ -15,7 +15,7 @@ I blend sports discipline with analytics to build efficient, people-centered sys
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 ### Project Administrator — OHE Painting & Wallcovering Inc. *(2024–Present)*
 - Compliance: **LCPtracker**, DIR/certified payroll, daily logs, apprentice classifications  
 - Coordination across field admins and project stakeholders  
@@ -49,7 +49,9 @@ I blend sports discipline with analytics to build efficient, people-centered sys
 ---
 
 ## 🏆 Achievements
-
+- Professional racquetball player — balanced elite-level training with full-time studies; apply discipline and goal tracking to work.
+- Athletic Scholarship Recipient — CSU Pueblo (2019).
+- Opened **4 store locations in 3 cities** at The Cake (Bolivia); supported launch ops and community engagement.
 
 ---
 
