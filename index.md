@@ -62,7 +62,7 @@ I blend sports discipline with analytics to build efficient, people-centered sys
 
 ## Projects
 
-- **How I Built This E-Portfolio** — my plain-English tutorial showing every step I took.  
+- **How I Built This E-Portfolio** — my tutorial showing every step I took.  
   [Read it »](/how-i-built-this/)
   
 ---
