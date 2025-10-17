@@ -3,7 +3,8 @@ title: How I Built This E-Portfolio
 layout: default
 ---
 
-Hi! I’m Brenda Laime. This page is a simple walkthrough of what I did to build my e-portfolio on GitHub Pages. I wrote it the way I wish someone explained it to me, short steps, no fluff.
+Hi! I’m Brenda Laime. This page is a simple walkthrough of what I did to build my e-portfolio on GitHub Pages. I wrote it the way I wish someone explained it to me. 
+**Live site:** https://brendalaime.github.io
 
 ---
 
@@ -45,28 +46,32 @@ Hi! I’m Brenda Laime. This page is a simple walkthrough of what I did to build
 
 ## 6) Add my résumé (PDF) and link it
 - I put my PDF in `assets/resume/Laime_Brenda_Resume.pdf`.
-- In `index.md` I added a link: [Download my résumé (PDF)](/assets/resume/Laime_Brenda_Resume.pdf)
+- In `index.md` I added a link: **[Download my résumé (PDF)](/assets/resume/Laime_Brenda_Resume.pdf)**
 
 ## 7) Write my homepage (index.md)
 - I replaced the sample text with my own sections:
-- **Summary**
-- **Work Experience**
-- **Education**
-- **Selected Projects**
-- **Skills**
-- **Achievements**
-- **Résumé** (the link above)
-- **Links**
+  - **Summary**
+  - **Work Experience**
+  - **Education**
+  - **Selected Projects**
+  - **Skills**
+  - **Achievements**
+  - **Résumé** (the link above)
+  - **Links**
 - I used Markdown basics: `#` headers, **bold**, *italics*, lists, and links.
 
 ## 8) Verify deployments
 - After every commit, I checked **Actions ▸ pages build and deployment**.
 - Green check = published. Then I refreshed `https://brendalaime.github.io`.
 
-## 9) (Optional) Screenshots
-If you want to see what my site looked like at the end:
-- Home page: ![Home screenshot](/assets/img/home-screenshot.png)
-*(If this image doesn’t show yet, I still need to upload it to `assets/img/`.)*
+## 9) Screenshots
+- **Home page:**  
+  ![Home screenshot](/assets/img/home-screenshot.png)
+
+## Troubleshooting I hit (and fixed)
+- **Red X in Actions:** I clicked the failed run, opened **build** logs, and fixed the file mentioned. Next commit turned green.
+- **Avatar not showing:** The image path in `_config.yml` didn’t match the actual filename in `assets/img/`.
+- **Wrong paths:** Most issues were tiny typos in file paths.
 
 ---
 
@@ -80,7 +85,4 @@ If you want to see what my site looked like at the end:
 - Minimal Mistakes: https://github.com/mmistakes/minimal-mistakes  
 - GitHub Pages docs: https://docs.github.com/pages
 
----
-
-If you’re brand new, you can follow these steps start-to-finish and recreate my site.
-
+[← Back to home](/)
