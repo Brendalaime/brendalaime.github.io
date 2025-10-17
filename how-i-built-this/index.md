@@ -4,6 +4,7 @@ layout: default
 ---
 
 Hi! I’m Brenda Laime. This page is a simple walkthrough of what I did to build my e-portfolio on GitHub Pages. I wrote it the way I wish someone explained it to me. 
+
 **Live site:** https://brendalaime.github.io
 
 ---
@@ -66,7 +67,8 @@ Hi! I’m Brenda Laime. This page is a simple walkthrough of what I did to build
 
 ## 9) Screenshots
 - **Home page:**  
-  ![Home screenshot](/assets/img/home-screenshot.png){: width="70%" }
+  ![Home screenshot](/assets/img/home-screenshot.png){: width="50%" }
+  *My homepage after switching to Minimal Mistakes.*
 
 ## Troubleshooting I hit (and fixed)
 - **Red X in Actions:** I clicked the failed run, opened **build** logs, and fixed the file mentioned. Next commit turned green.
