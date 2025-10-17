@@ -60,6 +60,13 @@ I blend sports discipline with analytics to build efficient, people-centered sys
 
 ---
 
+## Projects
+
+- **How I Built This E-Portfolio** — my tutorial showing every step I took.  
+  [Read it »](/how-i-built-this/)
+  
+---
+
 ## 📌 Links
 - [GitHub](https://github.com/brendalaime)  
 - [LinkedIn](https://www.linkedin.com/) 
