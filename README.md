@@ -25,6 +25,13 @@ This site runs on GitHub Pages using the **Minimal Mistakes** theme (`remote_the
 2. Commit changes to **`main`**.
 3. GitHub Actions builds & deploys automatically (check the **Actions** tab).
 
+## Troubleshooting (summary)
+
+- **Build failed (red X):** Open the failed run → check the end of **Build with Jekyll** logs.  
+  **Common fixes:** remove leftover theme folders (`_layouts`, `_includes`, `_sass`) from other themes, confirm `assets/css/main.scss` exists, and verify file paths.
+- **Image/PDF not loading:** Paths are **case-sensitive**. Use absolute paths like `/assets/img/...` and `/assets/resume/...`.
+- **Avatar/logo not showing:** Make sure the file is in `assets/img/` and `_config.yml` points to the exact filename (e.g., `/assets/img/brenda-headshot-180.png`).
+
 ---
 
 © 2025 Brenda Laime
