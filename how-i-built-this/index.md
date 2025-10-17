@@ -66,7 +66,7 @@ Hi! I’m Brenda Laime. This page is a simple walkthrough of what I did to build
 
 ## 9) Screenshots
 - **Home page:**  
-  ![Home screenshot](/assets/img/home-screenshot.png)
+  ![Home screenshot](/assets/img/home-screenshot.png){: width="70%" }
 
 ## Troubleshooting I hit (and fixed)
 - **Red X in Actions:** I clicked the failed run, opened **build** logs, and fixed the file mentioned. Next commit turned green.
