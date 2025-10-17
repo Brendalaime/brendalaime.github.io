@@ -80,7 +80,7 @@ Hi! I’m Brenda Laime. This page is a simple walkthrough of what I did to build
 
 ## 9) Screenshots
 - **Home page:**  
-  ![Home screenshot of my finished homepage](/assets/img/home-screenshot.png){: width="50%" }
+  ![Home screenshot of my finished homepage](/assets/img/home-screenshot.png){: width="30%" }
   *My homepage after switching to Minimal Mistakes.*
 
 ## Troubleshooting I hit (and fixed)
