@@ -1,10 +1,17 @@
 ---
-title: How I Built This E-Portfolio
-layout: default
+title: "How I Built This E-Portfolio"
+layout: single
+author_profile: false
+classes: wide
+toc: true
+toc_label: "On this page"
+toc_icon: "list"
+permalink: /how-i-built-this/
 ---
 
 Hi! I’m Brenda Laime. This page is a simple walkthrough of what I did to build my e-portfolio on GitHub Pages. I wrote it the way I wish someone explained it to me. 
-**Live site:** https://brendalaime.github.io
+
+**Live site:** [https://brendalaime.github.io](https://brendalaime.github.io)
 
 ---
 
@@ -20,10 +27,17 @@ Hi! I’m Brenda Laime. This page is a simple walkthrough of what I did to build
 - I removed the leftover Minimal theme files (like `_layouts`, `_includes`, `_sass`, `Gemfile`, etc.) so nothing conflicted.
 - I enabled **Minimal Mistakes** with a remote theme and a tiny CSS file:
   - `_config.yml` highlights:
-    - `remote_theme: "mmistakes/minimal-mistakes@4.24.0"`
-    - `plugins: [jekyll-remote-theme, jekyll-include-cache]`
-    - `minimal_mistakes_skin: "default"`
+
+    ```yaml
+    remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+    plugins:
+      - jekyll-remote-theme
+      - jekyll-include-cache
+    minimal_mistakes_skin: "default"
+    ```
+
   - `assets/css/main.scss` (this loads the theme):
+
     ```scss
     ---
     # Only the main Sass file needs front matter
@@ -66,7 +80,8 @@ Hi! I’m Brenda Laime. This page is a simple walkthrough of what I did to build
 
 ## 9) Screenshots
 - **Home page:**  
-  ![Home screenshot](/assets/img/home-screenshot.png){: width="70%" }
+  ![Home screenshot of my finished homepage](/assets/img/home-screenshot.png){: width="30%" }
+  *My homepage after switching to Minimal Mistakes.*
 
 ## Troubleshooting I hit (and fixed)
 - **Red X in Actions:** I clicked the failed run, opened **build** logs, and fixed the file mentioned. Next commit turned green.
