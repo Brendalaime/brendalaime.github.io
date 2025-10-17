@@ -4,6 +4,7 @@
 **Student:** Brenda Raquel Laime Jalil
 
 **Live site:** https://brendalaime.github.io
+
 **Milestone II (tutorial subpage):** https://brendalaime.github.io/how-i-built-this/
 
 This site runs on GitHub Pages using the **Minimal Mistakes** theme (`remote_theme`).
