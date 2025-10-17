@@ -1,11 +1,16 @@
 ---
-title: How I Built This E-Portfolio
-layout: default
+title: "How I Built This E-Portfolio"
+layout: single
+author_profile: false
+classes: wide
+toc: true
+toc_label: "On this page"
+toc_icon: "list"
 ---
 
 Hi! I’m Brenda Laime. This page is a simple walkthrough of what I did to build my e-portfolio on GitHub Pages. I wrote it the way I wish someone explained it to me. 
 
-**Live site:** https://brendalaime.github.io
+**Live site:** [https://brendalaime.github.io](https://brendalaime.github.io)
 
 ---
 
