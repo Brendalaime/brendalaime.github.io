@@ -1,5 +1,5 @@
 ---
-title: "OM 620 — Assignments Showcase"
+title: "OM 620 — Assignments"
 layout: single
 classes: wide
 toc: true
@@ -26,6 +26,6 @@ This page summarizes my work for **OM 620** (Assignments 1 & 2) and links to my 
 
 ## Why two methods?
 
-- **z-based** safety stock assumes **normal demand** and is common in practice.
+- **z-based** safety stock assumes **normal demand** and is fast and common in practice.
 - **Empirical quantile** avoids strong distribution assumptions; it’s safer when demand is skewed or spiky.  
-  I compute `quantile(0.95) × sqrt(lead_time)` as an alternative reference.
+  I compute `quantile(0.95) × sqrt(lead_time)` as an alternative.
