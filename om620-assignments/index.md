@@ -13,7 +13,7 @@ This page summarizes my work for **OM 620** (Assignments 1 & 2) and links to my 
 
 ---
 
-## What I built (plain English)
+## What I built
 
 - Cleaned a real transactional dataset (fixed column names, NaNs, oddities).
 - Focused on **Finished Goods (FG)** and **Make-to-Stock (MTS)** items for safety stock analysis.
