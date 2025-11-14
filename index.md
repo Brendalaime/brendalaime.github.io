@@ -64,6 +64,8 @@ I blend sports discipline with analytics to build efficient, people-centered sys
 
 - **How I Built This E-Portfolio** — my tutorial showing every step I took.  
   [Read it »](/how-i-built-this/)
+- **OM 620 — Assignments (A1 & A2)** — data cleaning, SKU stats, and safety stock (z-score + empirical).  
+  [Read it »](/om620-assignments/)
   
 ---
 
