@@ -9,7 +9,7 @@ toc_label: "On this page"
 This page summarizes my work for **OM 620** (Assignments 1 & 2) and links to my GitHub repository.
 
 **Repo:** https://github.com/brendalaime/om620-assignments  
-**Combined notebook:** `notebooks/OM620_a1_a2.ipynb`
+**Combined notebook:** `notebooks/om620_a1_a2.ipynb`
 
 ---
 
