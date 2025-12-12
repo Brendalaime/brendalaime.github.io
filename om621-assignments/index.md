@@ -79,3 +79,11 @@ The work combines:
 ---
 
 ## Folder structure (repo)
+om621_assignments/
+├─ data/
+├─ notebooks/
+│ └─ OM621_A2_A3_Combined.ipynb
+├─ plots/
+├─ pbi/
+│ └─ OM621_Assignment4.pbix
+└─ README.md
