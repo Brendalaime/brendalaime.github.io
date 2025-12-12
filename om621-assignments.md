@@ -59,7 +59,7 @@ The work combines:
 
 ---
 
-## Methods (plain English)
+## Methods 
 1. **Data**: `data/tr_data_22_24.csv` (site, mode, region, dates, USD amounts)  
 2. **Cleaning**: parsed dates; created `delay`; fixed `parcel_grund → parcel_ground`; readable `mode_label`  
 3. **Visuals**: ordered horizontal boxplot for delay by mode; densities by region/site; monthly lines grouped by year, faceted by mode  
