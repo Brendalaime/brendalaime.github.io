@@ -79,6 +79,7 @@ The work combines:
 ---
 
 ## Folder structure (repo)
+
 ```text
 om621_assignments/
 ├─ data/
