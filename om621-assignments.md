@@ -15,7 +15,7 @@ description: Transportation Cost Estimation & Forecasting — combined A2+A3 not
 
 ---
 
-## 3–5 minute video (coming soon)
+## 3–5 minute video 
 I’ll add a short walkthrough mixing slides + a quick notebook run + a fast Power BI demo.
 
 ---
@@ -37,7 +37,7 @@ I’ll add a short walkthrough mixing slides + a quick notebook run + a fast Pow
 
 ---
 
-## Story (my words)
+## Story 
 - **Business pain:** late, uneven invoices make monthly close and forecasting messy.
 - **Questions:** Are **delays** mode-dependent? Do **invoice amounts** show seasonality/trend we can use?
 - **Findings:** yes—containers (LCL/FCL) are slower + wider tails; parcel/air are fast/tight. Containers show a rising cost trend; parcel stays flatter.
