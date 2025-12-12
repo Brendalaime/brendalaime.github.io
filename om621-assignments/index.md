@@ -16,8 +16,9 @@ This page summarizes my work for **OM 621 — Advanced Visual Analytics** (Assig
 
 ---
 
-## 3–5 minute video (coming soon)
-I’ll add the link here once I upload my Zoom/YouTube recording.
+### Slides (3–5 min overview)
+- **Download the deck:** <a href="https://github.com/Brendalaime/om621_assignments/blob/main/slides/OM621_Milestone_IV_Brenda_Laime.pptx">OM621_Milestone_IV_Brenda_Laime.pptx</a>
+- Key figures are also in the repo’s [`plots/`](https://github.com/Brendalaime/om621_assignments/tree/main/plots) folder.
 
 ---
 
