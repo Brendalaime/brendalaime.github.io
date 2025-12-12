@@ -80,8 +80,7 @@ The work combines:
 
 ## Folder structure (repo)
 
-```text
-om621_assignments/
+```om621_assignments/
 ├─ data/
 ├─ notebooks/
 │  └─ OM621_A2_A3_Combined.ipynb
