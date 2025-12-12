@@ -1,5 +1,5 @@
 ---
-title: "OM 621 — Assignments (A2 & A3 Combined)"
+title: "OM 621 — Assignments"
 layout: single
 classes: wide
 toc: true
