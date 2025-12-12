@@ -66,6 +66,8 @@ I blend sports discipline with analytics to build efficient, people-centered sys
   [Read it »](/how-i-built-this/)
 - **OM 620 — Assignments (A1 & A2)** — data cleaning, SKU stats, and safety stock (z-score + empirical).  
   [Read it »](/om620-assignments/)
+- **OM 621 — Assignments (Python + Power BI):** Transportation Cost Estimation & Forecasting  
+  ➜ [Open the project page](/om621-assignments/) • [GitHub repo](https://github.com/Brendalaime/om621_assignments)
   
 ---
 
