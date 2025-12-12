@@ -79,11 +79,19 @@ The work combines:
 ---
 
 ## Folder structure (repo)
+```text
 om621_assignments/
 ├─ data/
 ├─ notebooks/
-│ └─ OM621_A2_A3_Combined.ipynb
+│  └─ OM621_A2_A3_Combined.ipynb
 ├─ plots/
 ├─ pbi/
-│ └─ OM621_Assignment4.pbix
+│  └─ OM621_Assignment4.pbix
 └─ README.md
+
+---
+
+## References
+- Karimi, M. (2025). *Storytelling with Data; Grammar of Graphics; Visualization Refinement.*  
+- McKinney, W. (2017). *Python for Data Analysis* (2nd ed.).  
+- Course dataset: `tr_data_22_24.csv`.
